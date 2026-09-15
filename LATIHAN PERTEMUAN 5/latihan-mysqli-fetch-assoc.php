@@ -17,7 +17,7 @@ if (!$query) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Menampilkan Data Tabel MySQL dengan mysqli_fetch_array</title>
+  <title>Menampilkan Data Tabel MySQL dengan mysqli_fetch_assoc</title>
 
   <style>
     body {
