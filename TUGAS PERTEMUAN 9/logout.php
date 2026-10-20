@@ -1,0 +1,9 @@
+<?php
+session_start();
+
+$_SESSION = array();
+session_destroy();
+
+header('Location: login.php?logged_out=1');
+exit;
+?>

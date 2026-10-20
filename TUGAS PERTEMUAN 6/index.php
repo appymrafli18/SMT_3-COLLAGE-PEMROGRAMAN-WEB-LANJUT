@@ -351,7 +351,7 @@ $no = 1;
 
     footer {
       background-color: #ffffff;
-      border-top: 1px solid #e9ecef;
+      /* border-top: 1px solid #e9ecef; */
       padding: 24px;
       text-align: center;
       font-size: 0.85rem;
